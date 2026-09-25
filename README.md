@@ -17,7 +17,7 @@
 ## Features
 
 - **MP4** in the quality you pick (up to 4K), or **MP3**
-- **Clip:** download just part of a video (start – end)
+- **Clip:** pick the part to download with a slider, or type the start and end times
 - **Queue:** add as many links as you like; pause and resume
 - **Chrome extension:** a download button right on the video
 - Keeps itself, yt-dlp and FFmpeg up to date
@@ -26,7 +26,7 @@
 
 ## Chrome extension
 
-The extension isn't in the Chrome Web Store; it comes with Downloader. Tick **Set up the Chrome extension** on the last page of setup, or open **Settings → Chrome extension → Install**, and Downloader walks you through the three steps.
+The extension isn't in the Chrome Web Store; it comes with Downloader. Tick **Set up the Chrome extension** on the last page of setup, or open **Settings → Chrome extension → Install**, and Downloader walks you through the four steps: **Copy path and open Chrome** copies the extension's folder path for you.
 
 ## Bugs and ideas
 
